@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var React=require("react");function useFocusLeave(e,u){var a=React.useRef(),r=u||a,t=React.useCallback((function(u){var a;(null==r||null===(a=r.current)||void 0===a?void 0:a.contains(u.relatedTarget))||e(u)}),[r,e]);return{ref:r,handleFocusLeave:t}}exports.useFocusLeave=useFocusLeave;

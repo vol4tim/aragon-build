@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var INPUT_BORDER=1,START_DATE="Start day",END_DATE="End day";exports.END_DATE=END_DATE,exports.INPUT_BORDER=INPUT_BORDER,exports.START_DATE=START_DATE;

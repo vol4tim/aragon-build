@@ -1,0 +1,1 @@
+import{useFocusLeave}from"./useFocusLeave.js";import{warnOnce}from"../utils/environment.js";function useOnBlur(){return warnOnce("useOnBlur","useOnBlur() is deprecated, please use useFocusLeave() instead."),useFocusLeave.apply(void 0,arguments)}export{useOnBlur};

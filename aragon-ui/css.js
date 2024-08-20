@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var unselectable=function(){return"\n  -webkit-touch-callout: none;\n  -webkit-user-select: none;\n  -moz-user-select: none;\n  -ms-user-select: none;\n  user-select: none;\n"};function cssPx(e){return"number"==typeof e?e+"px":e}exports.cssPx=cssPx,exports.unselectable=unselectable;

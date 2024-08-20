@@ -1,0 +1,1 @@
+function noop(){}function identity(n){return n}function pick(n,t){return t.reduce((function(t,i){return void 0!==n[i]&&(t[i]=n[i]),t}),{})}export{identity,noop,pick};

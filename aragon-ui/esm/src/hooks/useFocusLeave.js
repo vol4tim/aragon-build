@@ -1,0 +1,1 @@
+import{useRef,useCallback}from"react";function useFocusLeave(e,u){var a=useRef(),r=u||a,n=useCallback((function(u){var a;(null==r||null===(a=r.current)||void 0===a?void 0:a.contains(u.relatedTarget))||e(u)}),[r,e]);return{ref:r,handleFocusLeave:n}}export{useFocusLeave};
