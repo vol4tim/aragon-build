@@ -1,1 +1,0 @@
-var illustrationDefault="48526b4ed811c6ff.png";export default illustrationDefault;

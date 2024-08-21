@@ -1,1 +1,0 @@
-var overpassMonoLightWoff2="3dd21d4f0d28fecb.woff2";export default overpassMonoLightWoff2;

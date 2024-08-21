@@ -1,1 +1,0 @@
-"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var prefixUrl=function(r,e){return r.startsWith("data:")?r:e+r},ensureTrailingSlash=function(r){return r.endsWith("/")?r:"".concat(r,"/")};exports.ensureTrailingSlash=ensureTrailingSlash,exports.prefixUrl=prefixUrl;

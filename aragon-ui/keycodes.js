@@ -1,1 +1,0 @@
-"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var KEY_ESC=27,KEY_UP=38,KEY_DOWN=40,KEY_ENTER=13;exports.KEY_DOWN=KEY_DOWN,exports.KEY_ENTER=KEY_ENTER,exports.KEY_ESC=KEY_ESC,exports.KEY_UP=KEY_UP;

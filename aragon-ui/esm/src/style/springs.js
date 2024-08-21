@@ -1,1 +1,0 @@
-var springs={debug:{mass:1,tension:10,friction:40},lazy:{mass:1,tension:120,friction:20},smooth:{mass:.8,tension:300,friction:28},swift:{mass:.5,tension:800,friction:30},instant:{mass:.3,tension:1e3,friction:30}};export{springs};

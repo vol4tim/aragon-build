@@ -1,1 +1,0 @@
-import{useRef,useCallback}from"react";function useFocusEnter(e,r){var u=useRef(),n=r||u,t=useCallback((function(r){var u;(null==n||null===(u=n.current)||void 0===u?void 0:u.contains(r.target))&&e(r)}),[e,n]);return{ref:n,handleFocusEnter:t}}export{useFocusEnter};

@@ -1,1 +1,0 @@
-var GU=8,RADIUS=4;export{GU,RADIUS};

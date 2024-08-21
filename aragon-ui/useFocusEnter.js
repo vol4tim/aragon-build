@@ -1,1 +1,0 @@
-"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var React=require("react");function useFocusEnter(e,r){var t=React.useRef(),u=r||t,n=React.useCallback((function(r){var t;(null==u||null===(t=u.current)||void 0===t?void 0:t.contains(r.target))&&e(r)}),[e,u]);return{ref:u,handleFocusEnter:n}}exports.useFocusEnter=useFocusEnter;

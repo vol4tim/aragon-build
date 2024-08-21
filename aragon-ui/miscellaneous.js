@@ -1,1 +1,0 @@
-"use strict";function noop(){}function identity(t){return t}function pick(t,e){return e.reduce((function(e,n){return void 0!==t[n]&&(e[n]=t[n]),e}),{})}Object.defineProperty(exports,"__esModule",{value:!0}),exports.identity=identity,exports.noop=noop,exports.pick=pick;

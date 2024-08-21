@@ -1,1 +1,0 @@
-var prefixUrl=function(r,n){return r.startsWith("data:")?r:n+r},ensureTrailingSlash=function(r){return r.endsWith("/")?r:"".concat(r,"/")};export{ensureTrailingSlash,prefixUrl};

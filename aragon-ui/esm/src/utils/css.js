@@ -1,1 +1,0 @@
-var unselectable=function(){return"\n  -webkit-touch-callout: none;\n  -webkit-user-select: none;\n  -moz-user-select: none;\n  -ms-user-select: none;\n  user-select: none;\n"};function cssPx(e){return"number"==typeof e?e+"px":e}export{cssPx,unselectable};
